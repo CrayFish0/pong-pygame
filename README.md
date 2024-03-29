@@ -63,3 +63,6 @@ This project was created using the Pygame library, which provides an easy-to-use
 - [Pygame Documentation](https://www.pygame.org/docs/): Official documentation for Pygame library.
 
 - [Pong - Wikipedia](https://en.wikipedia.org/wiki/Pong): Learn more about the history and gameplay of Pong.
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
